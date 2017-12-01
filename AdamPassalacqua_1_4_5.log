@@ -1,0 +1,32 @@
+# IPython log file
+
+%cd "C:\Users\Adam\Documents\Python\PLTW-1.4.5"
+# Wed, 29 Nov 2017 08:34:48
+%cd "C:\Users\Adam\Documents\Python\PLTW-1.4.5\1.4.5 Images"# Wed, 29 Nov 2017 08:35:14
+round_corners_one_image
+# Wed, 29 Nov 2017 08:35:17
+round_corners_one_image()
+# Wed, 29 Nov 2017 08:35:58
+round_corners_of_all_images()
+# Wed, 29 Nov 2017 08:36:29
+round_corners_one_image()
+# Wed, 29 Nov 2017 08:38:41
+%run "C:\Users\Adam\Documents\Python\PLTW-1.4.5\mask.py"# Wed, 29 Nov 2017 08:38:52
+%run "C:\Users\Adam\Documents\Python\PLTW-1.4.5\mask.py"# Wed, 29 Nov 2017 08:38:59
+round_corners_of_all_images()
+# Wed, 29 Nov 2017 08:53:38
+%run "C:\Users\Adam\Documents\Python\PLTW-1.4.5\mask.py"# Wed, 29 Nov 2017 08:53:59
+frame_all_images()
+# Wed, 29 Nov 2017 08:54:11
+frame_all_images(255, 50)
+# Wed, 29 Nov 2017 08:56:02
+%run "C:\Users\Adam\Documents\Python\PLTW-1.4.5\mask.py"# Wed, 29 Nov 2017 08:56:05
+%run "C:\Users\Adam\Documents\Python\PLTW-1.4.5\mask.py"
+# Wed, 29 Nov 2017 08:56:06
+frame_all_images(255, 50)
+# Wed, 29 Nov 2017 11:08:20
+%logstart -ort AdamPassalacqua_1_4_5.log
+# Wed, 29 Nov 2017 11:08:33
+%logstart -ort AdamPassalacqua_1_4_5v2.log
+# Wed, 29 Nov 2017 11:19:57
+%logstop
